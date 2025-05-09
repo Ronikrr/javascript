@@ -5,4 +5,9 @@ let age = 24;
 let isLoggedIn =false
 
 
-console.log(typeof undefined);
+let score = "33"
+console.log(typeof(score));
+
+let valueInNuber = Number(score)
+console.log(typeof(score));
+
