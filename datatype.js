@@ -43,3 +43,4 @@ let str=sttr1+sttr2
 // console.log((1+2)+"2"+2+5);
 
 // console.log(+"");
+sks
